@@ -1,0 +1,2 @@
+req:
+PrettyTable 3.17.0
