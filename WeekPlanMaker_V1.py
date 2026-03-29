@@ -183,5 +183,5 @@ def start_code():
         else:
             print("\n<!> INVALID INPUT, please chose one of the options \"start, restart, off\" <!>\n")
 
-#-------------------------------------------------------------------start code:
+#-----------------------------------------------------------------start code:
 start_code()
